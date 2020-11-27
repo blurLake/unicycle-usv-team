@@ -8,3 +8,5 @@ python3 -m venv venv
 source /venv/bin/activate # for bash; use the extension (e.g., .fish) for other shells
 pip install -r requirements.txt
 ```
+
+## Keep pushing on develop branch until some part is nicely done, then merge with master which is protected.

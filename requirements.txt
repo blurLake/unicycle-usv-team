@@ -7,17 +7,17 @@ cycler==0.10.0
 future==0.18.2
 gast==0.4.0
 google-pasta==0.2.0
-grpcio==1.33.2
+grpcio==1.34.0
 gym==0.17.3
 h5py==3.1.0
-importlib-metadata==3.1.0
+importlib-metadata==3.1.1
 joblib==0.17.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 kiwisolver==1.3.1
 Markdown==3.3.3
 matplotlib==3.3.3
-numpy==1.19.4
+numpy==1.16.4
 opencv-python==4.4.0.46
 pandas==1.1.4
 Pillow==8.0.1
@@ -33,7 +33,7 @@ tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
--e git+https://github.com/blurLake/unicycle-usv.git@c60a0d4d629b7e51a9cca45e11531aff903b1f80#egg=unicycle_usv
+-e git+https://github.com/blurLake/unicycle-usv-team.git@4f37c8bda9030a8e6c47c719168eff3d5c7bdf21#egg=unicycle_usv
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.4.0

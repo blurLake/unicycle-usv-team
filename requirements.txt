@@ -30,7 +30,7 @@ scipy==1.5.4
 six==1.15.0
 stable-baselines==2.10.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.6.4
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 -e git+https://github.com/blurLake/unicycle-usv-team.git@4f37c8bda9030a8e6c47c719168eff3d5c7bdf21#egg=unicycle_usv
